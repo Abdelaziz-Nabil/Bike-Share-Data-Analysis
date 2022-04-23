@@ -100,9 +100,9 @@ Are there any missing values?
 What are the different types of values in each column?
 Some useful pandas methods:
 
-df.head()
-df.columns
-df.describe()
-df.info()
-df['column_name'].value_counts()
-df['column_name'].unique()
+* df.head()
+* df.columns
+* df.describe()
+* df.info()
+* df['column_name'].value_counts()
+* df['column_name'].unique()
